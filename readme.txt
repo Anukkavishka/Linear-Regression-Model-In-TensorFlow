@@ -41,5 +41,10 @@ Tensor Properties
 	cast 	    - change data type
 
 
-	
+	Always when  we train a model we follow exactly 4 steps
+
+	Prepare data
+	Create the inference functionality that predicts our output
+	Create a loss measurement functionality
+	Create a optimizer to minimize the loss
 	
